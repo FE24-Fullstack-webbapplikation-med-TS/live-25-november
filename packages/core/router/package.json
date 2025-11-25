@@ -1,0 +1,4 @@
+{
+  "name": "@jokeapp/router",
+  "main": "./index.ts"
+}

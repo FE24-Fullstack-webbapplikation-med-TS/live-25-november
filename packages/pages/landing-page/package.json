@@ -1,0 +1,4 @@
+{
+  "name": "@jokeapp/landing-page",
+  "main": "./index.ts"
+}
