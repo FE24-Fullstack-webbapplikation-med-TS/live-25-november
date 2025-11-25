@@ -17,8 +17,8 @@ function LandingPage() {
 
   return (
     <main className="landing-page">
-      <h2 className="landing-page__setup"> - {joke?.setup}</h2>
-      <h2 className="landing-page__punchline"> - {joke?.punchline}</h2>
+      <h2 className="landing-page__setup"> {joke?.setup}</h2>
+      <h2 className="landing-page__punchline"> {joke?.punchline}</h2>
       <Button
         variant="regular"
         onClick={() => {
